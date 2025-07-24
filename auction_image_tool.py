@@ -7,7 +7,7 @@ import tempfile
 
 
 
-st.image("https://raw.githubusercontent.com/chadjoiner/auction-image-tool-v2/main/auction_logo.jpeg", width=200)
+st.image("https://raw.githubusercontent.com/chadjoiner/auction-image-tool-v2/main/joiner_logo_v2.jpeg", width=200)
 st.title("📦 Auction Image Resizer & Renamer")
 
 st.markdown("""
